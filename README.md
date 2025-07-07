@@ -228,6 +228,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [🚀 Get Started](tutorials/01-intro-to-ml/) | [💻 Projects](projects/) | [🔧 Tools](tools/) | [🤝 Contribute](CONTRIBUTING.md)
 
-Made with ❤️ by the ML community
+Made with ❤️ by the digital-solution-admin
 
 </div>
